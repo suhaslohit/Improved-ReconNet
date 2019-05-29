@@ -1,0 +1,73 @@
+MR = 0_25
+
+Parrots.tif : 27.2099277938dB
+Monarch.tif : 26.0340053916dB
+foreman.tif : 31.2585924969dB
+fingerprint.png : 26.2830153951dB
+peppers256.png : 27.6170174787dB
+barbara.tif : 23.5265620713dB
+lena256.tif : 27.9118625489dB
+house.tif : 30.3367131389dB
+boats.tif : 27.8208207411dB
+flinstones.png : 25.0961680819dB
+cameraman.tif : 25.1028155885dB
+--------------
+Mean PSNR: 27.1088637024dB
+
+
+=========================================
+
+MR = 0_10
+
+Parrots.tif : 23.5202779268dB
+Monarch.tif : 21.7421551728dB
+foreman.tif : 27.4171544788dB
+fingerprint.png : 21.2033851759dB
+peppers256.png : 23.6832471129dB
+barbara.tif : 20.9122390435dB
+lena256.tif : 24.3538086694dB
+house.tif : 26.3677487989dB
+boats.tif : 23.6774419886dB
+flinstones.png : 20.5704704132dB
+cameraman.tif : 21.9376374016dB
+--------------
+Mean PSNR: 23.2168696529dB
+
+
+=========================================
+
+MR = 0_04
+
+Parrots.tif : 20.6737477483dB
+Monarch.tif : 17.8141007058dB
+foreman.tif : 23.0931280012dB
+fingerprint.png : 16.9652546946dB
+peppers256.png : 19.8448779568dB
+barbara.tif : 19.0076020379dB
+lena256.tif : 20.6086531118dB
+house.tif : 22.00951561dB
+boats.tif : 19.8402767016dB
+flinstones.png : 16.7146320078dB
+cameraman.tif : 19.5807597475dB
+--------------
+Mean PSNR: 19.6502316658dB
+
+
+=========================================
+
+
+MR = 0_01
+Parrots.tif : 17.6929887721dB
+Monarch.tif : 13.9932638836dB
+foreman.tif : 18.7393853228dB
+fingerprint.png : 14.7877675109dB
+peppers256.png : 16.9316023851dB
+barbara.tif : 16.9109439564dB
+lena256.tif : 17.513942854dB
+house.tif : 18.9288050283dB
+boats.tif : 16.7955700736dB
+flinstones.png : 13.841830519dB
+cameraman.tif : 17.0858051552dB
+--------------
+Mean PSNR: 16.6565368601dB
+
